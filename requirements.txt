@@ -5,7 +5,7 @@ requests
 dash_renderer
 dash-html-components
 dash-core-components
-dash-bootstrap-components
+dash-bootstrap-components<1
 dash-table
 dash
 pandas
